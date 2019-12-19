@@ -1,7 +1,7 @@
 package com.kangjj.hotfix;
 
 /**
- * Created by hzhuqi on 2019/8/13
+ * 如何生成dx：https://blog.csdn.net/gnmmdk/article/details/97959108
  */
 public class Sample {
     String getString() {
